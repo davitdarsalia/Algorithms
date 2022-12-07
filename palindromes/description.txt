@@ -1,0 +1,5 @@
+1) We can pick one string value as an input and turn it into slice of runes
+
+2) Then we'll reverse slice and runes
+
+3) And finally, we compare reversed slice of runes converted to string and original string input

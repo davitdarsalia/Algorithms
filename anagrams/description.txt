@@ -1,0 +1,7 @@
+1) Check the length of both inputs
+
+2) Second, we need to sort each input and we create separate helper function
+
+3) Third, we can convert string to slice of runes and sort it by ascending Alphabetical order
+
+4) And return string. Finally, return a result of boolean by comparing two inputs with sort function results

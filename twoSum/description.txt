@@ -1,0 +1,7 @@
+1) Make a hashmap with int entry and int value
+
+2) Iterate through data with only one loop.
+
+3) Check if current element exists in map. If not, map[target-currentValue] = currentIndex
+
+4) If value exists just return map[currentValue] and index wrapped in int array
